@@ -1,0 +1,38 @@
+.comment {
+    margin-top: 2rem;
+    .meta {
+        font-size: 1rem;
+        margin-top: 0.35em;
+    }
+
+    .content {
+        margin-bottom: 0;
+    }
+
+
+}
+
+ol  {
+    li {
+        margin-bottom: 2rem;
+    }
+}
+
+#comments {
+    button {
+        margin-bottom: 2rem;
+    }
+
+    form {
+        border-bottom: 4px dotted grey;
+    }
+}
+
+
+
+
+/* .comments {
+    li:last-child {
+        margin-bottom: 0;
+    }
+} */

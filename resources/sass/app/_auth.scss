@@ -1,0 +1,18 @@
+.auth-zone {
+    position: relative;
+    top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    a:hover {
+        text-decoration: none;
+        border-bottom: none;
+    }
+
+
+    a {
+        margin-left: 1rem;
+        &:first-child {
+            right: 1rem;
+        }
+    }
+}
